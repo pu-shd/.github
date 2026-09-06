@@ -1,16 +1,17 @@
 <img src="https://raw.githubusercontent.com/pu-shd/shd-site/main/assets/img/shd-lockup.png" alt="SHD — at Sherrerd Hall" width="420">
 
-## Shared ground for the groups based at Sherrerd Hall
+## Shared ground for groups at Sherrerd Hall
 
-Sherrerd Hall was designed to bridge disciplines — a three-story atrium its
-architects called the "town square," glass instead of corridors, seminar rooms
-anyone can book. **SHD** applies the same idea to the work.
+Sherrerd Hall bridges disciplines. **SHD** is digital scaffold.
 
-The groups based here run conferences and seminars, publish sites, keep
-records, and build the tooling to do all of it. A good deal of that effort is
-the same effort, solved separately more than once. This organization is where
-it gets pooled: shared systems, hosted in the open, maintained once and
-available to everyone at this address.
+Sherrerd Hall was built to connect academics from different fields and capture
+the potential of their interactions in the open. SHD captures the systems and
+operations that emerge cross-discipline.
+
+From classrooms to conferences, seminars to sites, SHD captures the tooling to
+do all of it. Shared systems, hosted in the open, are maintained once and
+available to everyone — somewhere colleagues, be they down the corridor or
+across cohorts, can find them again.
 
 SHD is *at* Sherrerd Hall. It supports the groups in the building; it does not
 speak for them.
