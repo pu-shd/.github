@@ -5,16 +5,15 @@
 Sherrerd Hall bridges disciplines. **SHD** scaffolds the work.
 
 Sherrerd Hall was built to connect academics from different fields and capture
-the potential of their interactions in the open. SHD captures the systems and
-operations that emerge cross-discipline.
+the potential of their interactions in the open.
+
+SHD captures that spirit and the systems and operations that emerge cross-discipline.
 
 From classrooms to conferences, seminars to sites, SHD captures the tooling to
 do all of it. Shared systems, hosted in the open, are maintained once and
-available to everyone. SHD keeps those systems findable — by the colleague
-down the corridor, and by the cohort that comes next.
+available to everyone.
 
-SHD is *at* Sherrerd Hall. It supports the groups in the building; it does not
-speak for them.
+SHD *at* Sherrerd Hall, supporting groups in the building and collaborating beyond.
 
 ### A few things kept here
 
