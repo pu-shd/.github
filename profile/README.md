@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/pu-shd/shd-site/main/assets/img/shd-lockup.png" alt="SHD — at Sherrerd Hall" width="420">
 
-## Shared ground for groups at Sherrerd Hall
+## Shared ground for groups at Sherrerd Hall, and Beyond
 
 Sherrerd Hall bridges disciplines. **SHD** scaffolds the work.
 
