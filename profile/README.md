@@ -1,31 +1,16 @@
 <img src="https://raw.githubusercontent.com/pu-shd/shd-site/main/assets/img/shd-lockup.png" alt="SHD — at Sherrerd Hall" width="420">
 
-## Shared ground for groups at Sherrerd Hall, and Beyond
+## Shared Repositories for Sherrerd Hall
 
-Sherrerd Hall bridges disciplines. **SHD** scaffolds the work.
+Sherrerd Hall was built to connect academics from different fields and capture the potential of their interactions in the open.
 
-Sherrerd Hall was built to connect academics from different fields and capture
-the potential of their interactions in the open.
+SHD holds shared repositories that support those engaged in those collaborations in and around Sherrerd Hall. 
 
-SHD captures that spirit and the systems and operations that emerge cross-discipline.
+### Select Examples
 
-From classrooms to conferences, seminars to sites, SHD captures the tooling to
-do all of it. Shared systems, hosted in the open, are maintained once and
-available to everyone.
-
-SHD *at* Sherrerd Hall, supporting groups in the building and collaborating beyond.
-
-### A few things kept here
-
-| | |
-|---|---|
-| [`event-stack`](https://github.com/pu-shd/event-stack) | Architecture, runbook, security and privacy for the event-management stack — the place to start |
-| [`eventkit`](https://github.com/pu-shd/eventkit) | Its shared core: webform ingest, event profiles, identity, Eventbrite aggregation |
-| [`bsp`](https://github.com/pu-shd/bsp) | Automation for Princeton Site Builder, so a new site is a configuration rather than a project |
-| [`drupal-azure`](https://github.com/pu-shd/drupal-azure) | A production-ready deployment template for a Composer-based Drupal site on Azure |
-
-Public by default; a few operational repositories stay private.
-
----
+* [Upcoming](https://github.com/pu-shd/upcoming) - Campus event feeds pulled from what departments, units, and centers publish and advertise.
+* [Classcast](https://github.com/pu-shd/classcast) - A quick way offer a class the ability to share their screens with a single presenter.
+* [Inkwell](https://github.com/pu-shd/inkwell) - A data scrubber for sensitive records.
+* [Proposal Builder](https://github.com/pu-shd/access-proposal) - Quick generation of access requests for the large clusters.
 
 **[shd.princeton.edu](https://shd.princeton.edu)** · Sherrerd Hall, Charlton Street, Princeton, NJ 08544
