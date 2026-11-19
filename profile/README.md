@@ -4,7 +4,7 @@
 
 Sherrerd Hall was built to connect academics from different fields and capture the potential of their interactions in the open.
 
-SHD holds shared repositories that support those engaged in those collaborations in and around Sherrerd Hall. 
+SHD holds shared repositories that support collaborators in and around Sherrerd Hall. 
 
 ### Select Examples
 
